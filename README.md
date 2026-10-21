@@ -32,7 +32,7 @@
 ## 🚀 Key Features
 
 * **Physics Engine:** Real-time velocity tracking (`Y_VELOCITY`) with ground checks and instant vertical clamping upon landing.
-* **Dynamic Sprite Flipping:** Smooth horizontal facing adjustment (`pygame.transform.flip`) depending on movement direction (`A`/`D` keys).
+* **Dynamic Sprite Flipping:** Smooth horizontal facing adjustment (`pygame.transform.flip`) depending on movement direction (`A`/`D` keys)
 * **Atmospheric Environment:** Procedurally generated background starfield and celestial meteor platforms.
 * **Auto-Respawn System:** Automatic position and velocity reset if the player falls off the bottom boundary of the screen.
 
